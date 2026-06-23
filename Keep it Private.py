@@ -27,6 +27,7 @@ class myclass:
         print(self.__privateVar)
         # print(myclass.__privateVar)
 
+
 foo = myclass()
 foo.hello()
 # foo.__privMeth()
